@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ooladipupo
-- 👀 I’m interested in AWS cloud computing, SQL, @ Python programming
-- 🌱 I’m currently learning AWS solution architect...
-- 💞️ I’m looking to collaborate on AWS cloud projects
+- 👀 I’m interested in DevOps Engineering, Security and Python programming
+- 💞️ I’m looking to collaborate on devops and cloud comouting
 - 📫 How to reach me: via email at olufowobi2234@gmail.com
 
 <!---
